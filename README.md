@@ -4,7 +4,7 @@ time: '1 hour'
 deliverables: '1 HTML file, 4 CSS files, images'
 ---
 
-# Arrrgene’s treasure tours
+# Arrrgene’s Treasure Tours
 
 ## Overview
 
